@@ -20,7 +20,7 @@ The most accessible feature is viewing courses.  This is done by typing a course
 - title of course
 - terms offered
 - description of course
-- whether you're eligible for the course
+- whether or not you're eligible for the course
 - ability to add the course to your cart
 - current term's class list
   - Clicking on a row in the class list will open up an expanded view where more information about the availability of the class is shown, together with any stats about the instructor teaching that class.
